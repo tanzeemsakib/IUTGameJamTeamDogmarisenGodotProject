@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kim-lightyear-you-and-i-161104.wav-b83582973730f6b67f063409344e82e0.sample"
+
+[deps]
+
+source_file="res://Assets/kim-lightyear-you-and-i-161104.wav"
+dest_files=[ "res://.import/kim-lightyear-you-and-i-161104.wav-b83582973730f6b67f063409344e82e0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
