@@ -7,3 +7,5 @@ https://pngtree.com/freepng/cute-pixel-character-chef_6183614.html
 https://free-game-assets.itch.io/free-summer-pixel-art-backgrounds
 https://freesound.org/people/MATRIXXX_/sounds/414888/
 https://bdragon1727.itch.io/free-trap-platformer
+https://nyknck.itch.io/fireball-animation
+https://arijkx.itch.io/pixel-art-basic-monolith-runes
